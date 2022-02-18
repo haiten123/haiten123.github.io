@@ -1,0 +1,21 @@
+body {
+  position: relative;
+  height: 2000px;
+}
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0;
+  z-index: 9999;
+  width: 100%;
+}
+.lunbo {
+  height: 500px;
+  overflow: hidden;
+}
+.thumbnail {
+  border: none;
+  padding: 40px 0;
+}
+.indent {
+  text-indent: 2em;
+}
